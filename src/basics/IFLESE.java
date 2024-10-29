@@ -1,0 +1,20 @@
+package basics;
+
+public class IFLESE {
+
+	public static void main(String[] args) {
+		int age=16;
+		if(age>=18)
+		{
+			System.out.println("eligible for vote");
+		}
+		else
+		{
+			System.out.println(" ineligible for vote");
+
+			
+		}
+
+	}
+
+}
